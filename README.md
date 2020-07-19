@@ -1,4 +1,4 @@
-# isoclassify_direct_implementation
+# Isoclassify direct method implementation
 Author: Aniket Sanghi
 
 Institution: The University of Texas at Austin
